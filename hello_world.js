@@ -49,8 +49,8 @@ const coloraFigletRandom = (testo) => {
 
 
 let i=0 ;
-while(i < 1){
-    sleep.msleep(200);
+while(i < 40){
+    sleep.msleep(150);
   let Hello_world_text = print_random_color(text);
     console.log(Hello_world_text)
   i++;
